@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "How far does quantisation take a local security tutor in Greek and in English, a benchmark of small open models on cybersecurity questions"
+type: software
+license: MIT
+repository-code: "https://github.com/ntantaroudas/sentinelsphere-greek-quantisation"
+authors:
+  - family-names: "Tantaroudas"
+    given-names: "Nikolaos D."
+    affiliation: "Institute of Communication and Computer Systems (ICCS), National Technical University of Athens"
+  - family-names: "Karachalios"
+    given-names: "Ilias"
+    affiliation: "University of Thessaly"
+  - family-names: "McCracken"
+    given-names: "Andrew J."
+    affiliation: "DASKALOS APPS SAS"
+keywords:
+  - "large language models"
+  - "quantisation"
+  - "Greek"
+  - "cybersecurity education"
+  - "CyberMetric"

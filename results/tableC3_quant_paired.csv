@@ -1,0 +1,13 @@
+lang,higher,lower,acc_higher,acc_higher_only,lower_only,acc_lower,p_mcnemar
+en,phi4mini_Q8_0,phi4mini_Q4_K_M,0.833,4,0,0.800,1.25e-01
+en,phi4mini_Q4_K_M,phi4mini_Q2_K,0.800,13,3,0.717,2.13e-02
+en,phi4mini_Q8_0,phi4mini_Q2_K,0.833,16,2,0.717,1.31e-03
+en,phi4mini_Q4_K_M_static,phi4mini_Q4_K_M,0.825,4,1,0.800,3.75e-01
+en,phi4mini_Q2_K_static,phi4mini_Q2_K,0.733,11,9,0.717,8.24e-01
+en,phi4mini_Q4_K_M_deployed,phi4mini_Q4_K_M,0.808,2,1,0.800,1.00e+00
+el,phi4mini_Q8_0,phi4mini_Q4_K_M,0.600,13,2,0.508,7.39e-03
+el,phi4mini_Q4_K_M,phi4mini_Q2_K,0.508,31,9,0.325,6.80e-04
+el,phi4mini_Q8_0,phi4mini_Q2_K,0.600,42,9,0.325,3.39e-06
+el,phi4mini_Q4_K_M_static,phi4mini_Q4_K_M,0.517,7,6,0.508,1.00e+00
+el,phi4mini_Q2_K_static,phi4mini_Q2_K,0.442,29,15,0.325,4.88e-02
+el,phi4mini_Q4_K_M_deployed,phi4mini_Q4_K_M,0.558,11,5,0.508,2.10e-01

@@ -1,0 +1,32 @@
+{
+ "phi4mini_Q4_K_M_minus_phi4mini_Q8_0": {
+  "gap_increase": 0.058333333333333334,
+  "ci_low": -0.008333333333333333,
+  "ci_high": 0.125
+ },
+ "phi4mini_Q2_K_minus_phi4mini_Q4_K_M": {
+  "gap_increase": 0.1,
+  "ci_low": -0.016666666666666666,
+  "ci_high": 0.21666666666666667
+ },
+ "phi4mini_Q2_K_minus_phi4mini_Q8_0": {
+  "gap_increase": 0.15833333333333333,
+  "ci_low": 0.03333333333333333,
+  "ci_high": 0.275
+ },
+ "phi4mini_Q4_K_M_minus_phi4mini_Q4_K_M_static": {
+  "gap_increase": -0.016666666666666666,
+  "ci_low": -0.08333333333333333,
+  "ci_high": 0.05
+ },
+ "phi4mini_Q2_K_minus_phi4mini_Q2_K_static": {
+  "gap_increase": 0.1,
+  "ci_low": -0.025,
+  "ci_high": 0.225
+ },
+ "phi4mini_Q4_K_M_minus_phi4mini_Q4_K_M_deployed": {
+  "gap_increase": 0.041666666666666664,
+  "ci_low": -0.025,
+  "ci_high": 0.11666666666666667
+ }
+}

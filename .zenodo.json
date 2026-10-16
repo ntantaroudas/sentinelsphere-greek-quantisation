@@ -1,0 +1,32 @@
+{
+  "title": "How far does quantisation take a local security tutor in Greek and in English, a benchmark of small open models on cybersecurity questions",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Tantaroudas, Nikolaos D.",
+      "affiliation": "Institute of Communication and Computer Systems (ICCS), National Technical University of Athens"
+    },
+    {
+      "name": "Karachalios, Ilias",
+      "affiliation": "University of Thessaly"
+    },
+    {
+      "name": "McCracken, Andrew J.",
+      "affiliation": "DASKALOS APPS SAS"
+    }
+  ],
+  "keywords": [
+    "large language models",
+    "quantisation",
+    "Greek",
+    "cybersecurity education",
+    "CyberMetric"
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101119681"
+    }
+  ],
+  "description": "Code and aggregated results for the Open Research Europe article \"How far does quantisation take a local security tutor in Greek and in English, a benchmark of small open models on cybersecurity questions\"."
+}
